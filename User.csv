@@ -1,0 +1,3 @@
+UserID,Username,Email,Password,UserType
+R001,regular,regular@test.com,regular123,REGULAR
+P001,power,power@test.com,power123,POWER
